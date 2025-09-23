@@ -1,0 +1,73 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Database credentials
+php/config-local.php
+
+# Logs
+*.log
+logs/
+php/logs/
+
+# Cache files
+cache/
+php/cache/
+*.cache
+
+# Uploaded files
+uploads/
+php/uploads/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Build files
+dist/
+build/
+
+# Package managers
+composer.phar
+package-lock.json
+yarn.lock
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Error logs
+error_log
+php_errors.log
+
+# Session files
+sessions/
+
+# Development tools
+.phpunit.result.cache
+.phpcs.xml
+.php_cs.cache
