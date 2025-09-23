@@ -1,0 +1,11 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="16" cy="16" r="16" fill="#2c1810"/>
+  
+  <!-- Om symbol simplified -->
+  <path d="M6,16 Q10,10 16,12 Q22,10 26,16 Q26,20 22,22 Q16,24 10,22 Q6,20 6,16 Z" 
+        fill="#d4af37"/>
+  
+  <!-- Star -->
+  <polygon points="16,6 17,9 20,9 18,11 19,14 16,12 13,14 14,11 12,9 15,9" 
+           fill="#d4af37" opacity="0.8"/>
+</svg>
